@@ -14,8 +14,6 @@ After cloning the app all you need to install all dependencies, to do this, run 
 To run this application run the following command:
 
 <pre>npm start</pre>
-or
-<br/>
-<pre>ng serve</pre>
-And open <pre>http://localhost:4200</pre>
-<b>P.S.: </b> You must have angular cli install to run ng serve otherwise it'll return error.
+
+And open <pre>http://localhost:4000</pre>
+<b>P.S.: </b> You must have angular cli install to run this repo otherwise it'll return error.
