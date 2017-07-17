@@ -1,0 +1,30 @@
+# NG2 Starting Application
+An Simple Angular 2 Application with Angular CLI and Bootstrap.
+This is just a simple appliction which covers Angular CLI and Bootstrap intergrated as the basic fetaure of Application
+
+To clone this app run the following command:<br/>
+<pre>git clone https://github.com/sbamniya/ng2-mean-app.git</pre>
+and then
+<pre>cd ng2-mean-app</pre>
+
+After cloning the app all you need to install all dependencies, to do this, run the following command:
+
+<pre>npm install</pre>
+
+<h4>And</h4>
+
+<pre>
+<ol>
+<li>npm install --save resolve-url-loader --dev</li>
+<li>npm i --save-dev bootstrap@next bootstrap-loader tether jquery</li>
+</ol>
+</pre>
+
+# Run the Application
+
+To run this application run the following command:
+
+<pre>npm start</pre>
+
+And open <pre>http://localhost:4000</pre>
+<b>P.S.: </b> You must have angular cli install to run this repo otherwise it'll return error.
