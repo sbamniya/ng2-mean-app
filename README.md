@@ -10,6 +10,7 @@ After cloning the app all you need to install all dependencies, to do this, run 
 <pre>npm install</pre>
 
 <h4>And</h4>
+
 <pre>
 <ol>
 <li>npm install --save resolve-url-loader --dev</li>
