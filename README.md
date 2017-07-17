@@ -4,6 +4,8 @@ This is just a simple appliction which covers Angular CLI and Bootstrap intergra
 
 To clone this app run the following command:<br/>
 <pre>git clone https://github.com/sbamniya/ng2-mean-app.git</pre>
+and then
+<pre>cd ng2-mean-app</pre>
 
 After cloning the app all you need to install all dependencies, to do this, run the following command:
 
